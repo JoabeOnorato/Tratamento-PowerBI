@@ -6,8 +6,17 @@ Este relatório de vendas em **Power BI** foi desenvolvido com o objetivo de for
 ## Navegação no Relatório
 O relatório possui **3 abas** principais, com botões para facilitar a navegação:
 - Na aba **Home**, há dois botões:
+- 
+![Capa ](https://github.com/user-attachments/assets/ef920b65-2a51-4381-ad83-3f5ac756356c)
+
   1. **Dashboard**: Ao clicar, você será direcionado para a visão detalhada geral (Dashboard).
+ 
+![visão final geral](https://github.com/user-attachments/assets/7a6f2733-d552-4905-9ce5-f2bb85591e78)
+ 
   2. **Mapa Mundial**: Redireciona para a aba que contém a visão por estado no mapa.
+ 
+![Visão Mapa](https://github.com/user-attachments/assets/e3d183dc-28cd-431c-b609-3d0b5dbed45b)
+
 
 Nas abas do **Dashboard** e do **Mapa**, há também um botão para voltar à página principal (Home).
 
